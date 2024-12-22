@@ -1,0 +1,96 @@
+.container {
+  margin: 10px;
+}
+
+.block {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  margin-bottom: 10px;
+  background-color: aqua;
+  border: 1px solid coral;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clearfix {
+  clear: both;
+}
+.block-lg {
+  width: 400px;
+  height: 200px;
+  margin: 5px;
+  background-color: aqua;
+  border: 1px solid coral;
+}
+
+.block-sm {
+  width: 40%;
+  height: 80%;
+  background-color: blueviolet;
+  border: 1px solid;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.block-secondary {
+  margin-top: 20px;
+}
+
+.block-sm-secondary {
+  width: 150px;
+  height: 60px;
+  background-color: blueviolet;
+  border: 1px solid;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.block-lg-down {
+  width: 400px;
+  height: 200px;
+  margin-right: 10px;
+  background-color: aqua;
+  border: 1px solid coral;
+}
+
+.block-sm-down {
+  width: 150px;
+  height: 60px;
+  background-color: blueviolet;
+  border: 1px solid;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.block-sm-down {
+  width: 170px;
+  height: 120px;
+  background-color: blueviolet;
+  border: 1px solid;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+.margin-center {
+  margin: auto;
+}
+
+.block-duble-down {
+  margin-top: 35px;
+  margin-right: 30px;
+}
+
+.block-double-down-secondary {
+  width: 140px;
+  height: 50px;
+  background-color: blueviolet;
+  border: 1px solid;
+  margin-top: 10px;
+}
